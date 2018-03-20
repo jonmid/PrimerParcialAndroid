@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PrimerParcialAndroid</string>
+    <string name="tv_str_rating_number1">8.4</string>
+    <string name="tv_str_rating">Puntuación</string>
+    <string name="tv_str_rating_number2">36%</string>
+    <string name="tv_str_eye">Vista</string>
+    <string name="tv_str_rating_number3">90%</string>
+    <string name="tv_str_popularity">Popularidad</string>
+    <string name="tv_sectiontwo_label1">Fecha de lanzamiento</string>
+    <string name="tv_sectiontwo_label2">Diciembre 20, 2018</string>
+    <string name="tv_sectiontwo_label3">Director</string>
+    <string name="tv_sectiontwo_label4">Abraham Gooner</string>
+    <string name="tv_sectiontwo_label5">Tiempo</string>
+    <string name="tv_sectiontwo_label6">1 hora 34 minutos</string>
+    <string name="tv_sectiontwo_label7">Puntuación</string>
+    <string name="tv_sectiontwo_label8">346 Criticas</string>
+    <string name="tv_sectionthree_label1">Comentarios (4)</string>
+    <string name="tv_sectionthree_item">No sólo sobrevivió 500 años, sino que tambien ingresó ...</string>
+</resources>
